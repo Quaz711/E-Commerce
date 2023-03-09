@@ -36,7 +36,7 @@
 
   ## Walkthrough:
   Video of the application running
-  [Screencastify](https://drive.google.com/file/d/1uAL9Czkndyw251Cx2OyZ4cs2F19W0F0v/view)
+  [Screencastify](https://drive.google.com/file/d/18Vs7r2FWOgl6DfOpTLNckinyavZUenbG/view)
 
   ## Questions?:
   - Github: [Quaz711](https://github.com/Quaz711)
