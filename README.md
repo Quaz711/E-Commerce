@@ -32,11 +32,23 @@
   None
   
   ## Images:
-  None
+  ![This is a gif showing the first minute of requests.](./assets/images/First.gif)
+
+  ![This is a gif showing the second minute of requests.](./assets/images/Second.gif)
+
+  ![This is a gif showing the third minute of requests.](./assets/images/Third.gif)
+
+  ![This is a gif showing the fourth minute of requests.](./assets/images/Fourth.gif)
+
+  ![This is a gif showing the fifth minute of requests.](./assets/images/Fifth.gif)
+
+  ![This is a gif showing the sixth minute of requests.](./assets/images/Sixth.gif)
+
+  ![This is a gif showing the seventh minute of requests.](./assets/images/Seventh.gif)
 
   ## Walkthrough:
   Video of the application running
-  [Screencastify](https://drive.google.com/file/d/18Vs7r2FWOgl6DfOpTLNckinyavZUenbG/view)
+  [Screencastify](https://drive.google.com/file/d/1og6qQDkosVWPOML7LJZD4o4k8kxLTpFq/view)
 
   ## Questions?:
   - Github: [Quaz711](https://github.com/Quaz711)
